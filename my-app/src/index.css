@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.card{
+    width: 520px;
+    height: 400px;
+    box-shadow:1px 1px 7px rgba(6,0,76,0.185);
+    margin: 25px auto;
+    padding: 35px 20px;
+}
+.logo{
+    width: 170px;
+    display: block;
+    margin: auto;
+}
